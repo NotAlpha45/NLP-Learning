@@ -6,7 +6,7 @@ model:
   layers: 6
   type: transformer
 paths:
-  checkpoint_dir: Model_Chekpoints/Deep_Phonemizer/Forward_Model_Checkpoints/
+  checkpoint_dir: Model_Checkpoints/Deep_Phonemizer/Forward_Model_Checkpoints/
   data_dir: Model_Data/Deep_Phonemizer/Forward_Model_Data/
 preprocessing:
   char_repeats: 2
